@@ -2,8 +2,8 @@ public class Hello{
 
 	public static void main(String[] args){
 
-        	for(int i=1;i<=6;i++){
-			System.out.println("Hello to this new World of AWS = "+i);
+        	for(int i=1;i<=10;i++){
+			System.out.println("Greate learning - Hello to AWS = "+i);
 		}
 	}
 
